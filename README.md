@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shakya prabhashana</h1>
+<img align="right" alt="coding" width="400" src="https://www.pixel4k.com/wp-content/uploads/2019/12/venom-spiderman-symbiote-artwork_1576098252.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakya&label=Profile%20views&color=0e75b6&style=flat" alt="shakya" /> </p>
 
 - 🌱 I’m currently learning **python**
